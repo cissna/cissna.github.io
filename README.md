@@ -1,5 +1,3 @@
-# Isaac Cissna's Personal Website
-
 My Github is currently mostly things in progress.
 
 My **pinned repositories** are the ones that are or will be finished projects, actually useful to the public.
